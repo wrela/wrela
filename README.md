@@ -15,5 +15,5 @@ bun install
 bun test
 ```
 
-Pull requests and pushes to `main` run the same test suite in GitHub Actions on
-a Blacksmith ARM runner.
+Pull requests and pushes to `main` run the same test suite on GitHub's hosted
+Ubuntu ARM64 runners.
